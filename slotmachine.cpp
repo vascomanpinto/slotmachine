@@ -6,7 +6,7 @@
 #include <ctime>
 
 using namespace std;
-
+//declaracao dos rodilhos
 void iniciamatriz(char cil[3][12]){
 cil[0][0]='A';
 cil[0][1]='B';
